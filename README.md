@@ -6,7 +6,7 @@ This repository contains my Entity Relationship Diagram (ERD) for the WitleShop 
 
 WitleShop is an online store where customers can register, save multiple delivery addresses, browse products (organised by category and linked to suppliers), place orders containing multiple products, make payments, and have their orders delivered.
 
-WitleShop ERD.drawio.png
+![ERD Diagram](WitleShop%20ERD.drawio.png)
 
 ## Entities
 
